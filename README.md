@@ -21,7 +21,7 @@ Message for John Smith.  Sent by Bob Jones on January 1, 2003.
 	- If you are sending binary material or multiple files, use WinZip or something similar to combine the file(s) that you are sending with the .uue file.
 - Encrypt the message (the single text file or the zipped archive) with your recipient's public key, and send it.
 
-## How to read a digital signature in an encrypted message:
+### How to read a digital signature in an encrypted message:
 
 - Decrypt the message with your *private* key.
 - UUDecode the signature data into a .hlx file.
