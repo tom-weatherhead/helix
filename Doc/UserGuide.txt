@@ -19,7 +19,7 @@ Message for John Smith.  Sent by Bob Jones on January 1, 2003.
 
 4) Do one of the following steps:
 
-4a) If your main message is a single text file, paste the contents of the .uue file into the message, usually at the bottom.  For Helix 0.1.0, it is important that no line about the UUEncoded material starts with the word "begin".
+4a) If your main message is a single text file, paste the contents of the .uue file into the message, usually at the bottom.  For Helix 0.1.0, it is important that no line above the UUEncoded material starts with the word "begin".
 
 *or*
 
