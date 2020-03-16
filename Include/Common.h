@@ -39,6 +39,8 @@ using std::endl;
 //using std::string;
 using std::vector;
 
+#undef BIG_ENDIAN
+
 // Custom includes.
 #include "Exception.h"
 #include "Version.h"

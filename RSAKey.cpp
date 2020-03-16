@@ -94,7 +94,7 @@ void CHelixRSAKey::HashNumbers( BigNum & d, BigNum & n )
 
 	do
 	{
-		printf( "Private key password (8 to %d chars): ", sizeof( acPassword ) - 1 );
+		printf( "Private key password (8 to %d chars): ", (int)(sizeof( acPassword ) - 1) );
 		acPassword[0] = '\0';
 		scanf( "%s", acPassword );
 	}

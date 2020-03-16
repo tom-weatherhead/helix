@@ -1,0 +1,6 @@
+/helix
+*.o
+
+# macOS
+.DS_Store
+._.DS_Store

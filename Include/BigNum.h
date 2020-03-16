@@ -39,7 +39,7 @@ public:
 
 static inline void IntelDebugInterrupt( void )
 {
-	__asm int 3
+	// __asm int 3
 }
 
 
