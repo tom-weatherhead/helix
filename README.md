@@ -1,7 +1,17 @@
 # helix
 An RSA encryption and uuencoding/uudecoding application from 2002.
 
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/tom-weatherhead/helix/blob/master/LICENSE)
+[![latest tag][latest-tag-badge-image]][latest-tag-url]
+[![watchers][watchers-badge-image]][watchers-url]
+[![stars][stars-badge-image]][stars-url]
+[![issues][issues-badge-image]][issues-url]
+[![forks][forks-badge-image]][forks-url]
+[![contributors][contributors-badge-image]][contributors-url]
+[![branches][branches-badge-image]][branches-url]
+[![releases][releases-badge-image]][releases-url]
+[![commits][commits-badge-image]][commits-url]
+[![last commit][last-commit-badge-image]][last-commit-url]
+[![license][license-badge-image]][license-url]
 
 ## User's Guide for Helix 0.2.0
 Document version as of December 18, 2002
@@ -29,3 +39,26 @@ Message for John Smith.  Sent by Bob Jones on January 1, 2003.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+[latest-tag-badge-image]: https://badgen.net/github/tag/tom-weatherhead/helix
+[latest-tag-url]: https://github.com/tom-weatherhead/helix/tags
+[watchers-badge-image]: https://badgen.net/github/watchers/tom-weatherhead/helix
+[watchers-url]: https://github.com/tom-weatherhead/helix/watchers
+[stars-badge-image]: https://badgen.net/github/stars/tom-weatherhead/helix
+[stars-url]: https://github.com/tom-weatherhead/helix/stargazers
+[issues-badge-image]: https://badgen.net/github/issues/tom-weatherhead/helix
+[issues-url]: https://github.com/tom-weatherhead/helix/issues
+[forks-badge-image]: https://badgen.net/github/forks/tom-weatherhead/helix
+[forks-url]: https://github.com/tom-weatherhead/helix/network/members
+[contributors-badge-image]: https://badgen.net/github/contributors/tom-weatherhead/helix
+[contributors-url]: https://github.com/tom-weatherhead/helix/graphs/contributors
+[branches-badge-image]: https://badgen.net/github/branches/tom-weatherhead/helix
+[branches-url]: https://github.com/tom-weatherhead/helix/branches
+[releases-badge-image]: https://badgen.net/github/releases/tom-weatherhead/helix
+[releases-url]: https://github.com/tom-weatherhead/helix/releases
+[commits-badge-image]: https://badgen.net/github/commits/tom-weatherhead/helix
+[commits-url]: https://github.com/tom-weatherhead/helix/commits/master
+[last-commit-badge-image]: https://badgen.net/github/last-commit/tom-weatherhead/helix
+[last-commit-url]: https://github.com/tom-weatherhead/helix
+[license-badge-image]: https://img.shields.io/github/license/mashape/apistatus.svg
+[license-url]: https://github.com/tom-weatherhead/helix/blob/master/LICENSE

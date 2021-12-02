@@ -1,6 +1,9 @@
 # See 'The GNU Make Manual' at
 # https://www.gnu.org/software/make/manual/make.html
 
+# Note: To link the BigNum class as a dylib (DLL) :
+# $ ld -dylib -lc -lc++ -o outputfilename BigNum.o Version.o
+
 # Run via one of the following:
 # $ make
 # $ make clean
